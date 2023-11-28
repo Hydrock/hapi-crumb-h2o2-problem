@@ -1,0 +1,27 @@
+{
+  "name": "hapi-crumb-h2o2-problem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hydrock/hapi-crumb-h2o2-problem.git"
+  },
+  "dependencies": {
+    "@hapi/crumb": "^9.0.1",
+    "@hapi/h2o2": "^10.0.4",
+    "@hapi/hapi": "^21.3.2",
+    "@hapi/inert": "^7.1.0",
+    "@hapi/vision": "^7.0.3"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hydrock/hapi-crumb-h2o2-problem/issues"
+  },
+  "homepage": "https://github.com/Hydrock/hapi-crumb-h2o2-problem#readme"
+}
